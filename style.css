@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+   font-weight: bold;
+   background-color: #3a3b41;
+}
+.container{
+    background-color: #85a878;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 1000px;
+}
+.profile-image{
+    width: 180px;
+    border-radius: 50%;
+    height: 180px;
+    float: left;
+}
+.header-bio{
+    float:left:
+}
+.header-contact{
+    float:right;
+    padding: 30px;
+}
+.header-contact ul a{
+    text-decoration: none;
+}
+.header-contact ul a:hover{
+
+}
+.clearing-div{
+    clear: both;
+}
